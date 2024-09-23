@@ -1,0 +1,103 @@
+nav {
+    text-align: center;
+    background-color: rgba(54, 160, 54, 0.705);
+}
+
+table,
+body,
+tr {
+    margin: auto;
+    border-collapse: collapse;
+    overflow-x: hidden;
+}
+
+table,
+th {
+    border-top: 1px solid rgba(54, 48, 43, 0.685);
+    padding: 4px;
+    font-variant: normal;
+    font-weight: 100;
+    color: #363946;
+    height: 35px;
+}
+
+h1 {
+    color: rgb(241, 241, 228);
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+h2 {
+    color: rgb(240, 240, 223);
+    font-size: 15px;
+}
+
+.dddd {
+    background-color: rgba(223, 221, 196, 0.808);
+}
+
+button,
+a {
+    font-size: 22px;
+    display: inline-block;
+    margin-right: 20px;
+    border: 8px;
+    border-color: rgba(54, 160, 54, 0.705);
+    background: none;
+    color: aliceblue;
+    font-stretch: extra-condensed;
+}
+
+button:hover {
+    display: inline-block;
+    margin-right: 20px;
+    border: 0;
+    border-color: rgba(24, 99, 24, 0.258);
+    background-color: rgba(0, 128, 0, 0.425);
+    color: rgba(240, 248, 255, 0.712);
+    font-stretch: extra-condensed;
+}
+
+.butao {
+    width: 60px;
+    height: auto;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.time {
+    width: 35%;
+}
+
+td {
+    height: 46px;
+    border-top: 1px solid rgba(54, 48, 43, 0.308);
+    font-weight: 100;
+    text-align: center;
+}
+
+.tabela-colunas-bordas {
+    border-top: none;
+}
+
+.clube {
+    width: 50%;
+    text-align: right;
+}
+
+.borda-azul {
+    border-left: 3px solid#4285f4;
+}
+
+.borda-laranja {
+    border-left: solid#fa7b17;
+}
+
+.borda-verde {
+    border-left: solid#34a853;
+}
+
+.borda-vermelha {
+    border-left: solid#ae4335;
+}
